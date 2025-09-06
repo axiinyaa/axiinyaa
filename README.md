@@ -44,4 +44,4 @@
 
 ###
 
-<img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/itch/default.svg](https://img.itch.zone/aW1nLzIyMDgwNDEyLmdpZg==/original/PBvFfQ.gif)" width="52" height="40" alt="itch logo"  />
+<img src="https://img.itch.zone/aW1nLzIyMDgwNDEyLmdpZg==/original/PBvFfQ.gif" width="52" height="40" alt="niko head bobbing"  />
