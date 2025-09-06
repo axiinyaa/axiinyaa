@@ -44,4 +44,4 @@
 
 ###
 
-<img src="https://img.itch.zone/aW1nLzIyMDgwNDEyLmdpZg==/original/PBvFfQ.gif" width="52" height="40" alt="niko head bobbing"  />
+<img src="https://img.itch.zone/aW1nLzIyMDgwNDEyLmdpZg==/original/PBvFfQ.gif" width="50" height="40" alt="niko head bobbing"  />
