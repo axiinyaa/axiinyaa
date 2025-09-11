@@ -44,4 +44,10 @@
 
 ###
 
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
+
+###
+
 <img src="https://img.itch.zone/aW1nLzIyMDgwNDEyLmdpZg==/original/PBvFfQ.gif" width="50" height="50" alt="niko head bobbing"  />
